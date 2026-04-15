@@ -2,12 +2,6 @@
 
 > 4-model ensemble credit risk scoring system with SHAP explainability and CFPB fairness auditing, trained on 391,164 real LendingClub loans. Features an interactive Dash dashboard for real-time loan risk assessment.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
-![XGBoost](https://img.shields.io/badge/XGBoost-Best_Model-orange?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-purple?style=flat-square)
-![Dash](https://img.shields.io/badge/Dash-Dashboard-00b4d8?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-
 ---
 
 ## 🧠 What Is This?
